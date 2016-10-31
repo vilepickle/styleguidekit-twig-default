@@ -4,7 +4,6 @@
   "keywords":         ["twig", "pattern lab", "styleguide"],
   "homepage":         "http://patternlab.io",
   "license":          "MIT",
-  "type":             "patternlab-styleguidekit",
   "authors": [
     {
       "name":         "Dave Olsen",
